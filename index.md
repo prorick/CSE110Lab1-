@@ -16,7 +16,7 @@ My favorite website is [youtube](https://www.youtube.com/)
 Section Link: [README](https://github.com/prorick/CSE110Lab1-#cse110lab1-)
 
 My favorite food:
- ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzestfulkitchen.com%2Fsalmon-poke-bowls-recipe%2F&psig=AOvVaw1zMz1ssdVNStp3l_HxMXdA&ust=1632599956951000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjxkPeymPMCFQAAAAAdAAAAABAD)
+ ![This is an image](spis.png)
 
  A list of my favorite foods:
 - Poke
