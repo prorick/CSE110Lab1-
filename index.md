@@ -1,7 +1,7 @@
-#Prothit Halder
+# Prothit Halder
 ## User Page
 
-** Welcome! ** I am a third year *math-cs* major at UC San Diego.
+**Welcome!** I am a third year *math-cs* major at UC San Diego.
 
 A quote that best describes me is 
  > Don't settle. Start Living.
