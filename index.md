@@ -15,6 +15,8 @@ My favorite website is [youtube](https://www.youtube.com/)
 
 Section Link: [README](https://github.com/prorick/CSE110Lab1-#cse110lab1-)
 
+[Relative Link](./README.md)
+
 My favorite food:
  ![This is an image](spis.png)
 
